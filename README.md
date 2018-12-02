@@ -14,9 +14,10 @@ QTables) which it may reference ‘at-a-glance’ in order to gather instruction
 destination. For this particular program, our objective is to allow for more than one goal
 destination. The user will be able to, at runtime, order the robot to go to any room on the 4th
 floor of the CF building. Then, as another addition, the robot will return to an area indicated as
-‘home’.
+‘home’.
 
-For a complete report, view [Report.pdf](doc\Report.pdf) in the doc folder.
+
+For a complete report, view [Report.pdf](doc/Report.pdf) in the doc folder.
 
 ## Author
 
